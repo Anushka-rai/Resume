@@ -26,7 +26,7 @@ body {
 }
 
 .toggle-btn:hover {
-  background-color: #666;
+  background-color: black;
 }
 
 /* Header */
@@ -54,7 +54,7 @@ nav ul {
 
 nav a {
   text-decoration: none;
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color:  rgba(255, 255, 255, 0.4);
   padding: 10px 20px;
   border-radius: 12px;
   transition: transform 0.2s ease, background-color 0.3s ease;
